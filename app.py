@@ -2,7 +2,7 @@ import calendar
 from datetime import date
 import streamlit as st
 
-st.set_page_config(page_title="Tính lãi tiền gửi tiết kiệm", page_icon="💰", layout="wide")
+st.set_page_config(page_title="Tính lãi tiền gửi tiết kiệm_Quynh_Nhu", page_icon="💰", layout="wide")
 
 
 def add_months(d: date, months: int) -> date:
